@@ -1,0 +1,12 @@
+
+### How It Works
+
+1. **HTML Structure**: The navigation menu is structured with an unordered list containing links.
+  
+2. **CSS Styling**: The `.navbar` class defines the fixed position and initial styles for the menu. The `.scrolled` class changes the background color when the user scrolls.
+
+3. **JavaScript Interactivity**: An event listener checks the scroll position. When the user scrolls down more than 50 pixels, it adds the `.scrolled` class to the navbar, changing its style.
+
+### Usage
+
+You can copy and paste the HTML, CSS, and JavaScript code into your own files to see it in action. Adjust the content height to test the scroll effect. Enjoy building your interactive navigation menu!
